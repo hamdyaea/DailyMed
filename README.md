@@ -5,7 +5,7 @@
 
 ## What's this software ?  
 
-This Python 3 software help the people who have to take a medecation 
+This Python 3 software help the people who have to take a medication 
 everyday. You need Python3 and the easygui library to run it.
 
 ![Screenshot](screenshot.png)  
