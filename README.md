@@ -24,10 +24,10 @@ sudo python3 -m pip install --upgrade easygui
 ```
 
 
-## How to launch this game :  
+## How to launch this software :  
 
 ```sh
-python3 radio.py
+python3 dailymed.py
 ```  
 
 
